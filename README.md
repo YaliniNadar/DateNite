@@ -11,6 +11,11 @@ that shows information about restraunts and activities for a certain location in
 
 React packages: react-router, react-bootstrap, react-icons, styled-components, loglevel, react-toastify
 
+## Overview
+![Screenshot!](media/landingpage.jpeg)
+![Screenshot!](media/dn_homepage.jpeg)
+![Screenshot!](media/dashboard.png)
+
 ## Installation
 
 1. Clone project from git hub
